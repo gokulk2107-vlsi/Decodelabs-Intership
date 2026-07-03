@@ -73,6 +73,5 @@ decodelabs_tasks/
 ---
 
 ## Author
-**Gokul**  
-B.Tech – Electrical Engineering (VLSI)  
-DecodeLabs IoT Internship – Batch 2026
+**Gokul K**  
+
